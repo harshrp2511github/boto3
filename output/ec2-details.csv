@@ -1,0 +1,43 @@
+Instance_ID,Instance_Type,Instance_PublicIpv4,Instance_AMI,Instance_State
+i-037b13cefa59a613c,t2.micro,,ami-0ec1ad91f200c15a8,"{'Code': 80, 'Name': 'stopped'}"
+i-02b50a6faf1c6a079,t2.micro,13.57.251.125,ami-069339bea0125f50d,"{'Code': 16, 'Name': 'running'}"
+i-0c09ac0363bf50209,t2.micro,52.52.90.56,ami-097ad469381034fa2,"{'Code': 16, 'Name': 'running'}"
+i-0d68c171df86d45ab,t2.micro,,ami-087efd22b572d6bc1,"{'Code': 80, 'Name': 'stopped'}"
+Total no of Instances,4
+
+
+Volume_ID,Volume_Size,Volume_Type,IOPS,Snapshot_ID,Create_time,Availability Zone,State
+vol-0246aad4fcdc9fd40,8,standard,,snap-03ca8c2753e71c761,2019-04-01 16:44:52.088000+00:00,us-west-1c,8
+vol-064f86cd39b86e23d,10,gp2,100,snap-06ff45c2b7ee20269,2019-04-01 20:23:03.508000+00:00,us-west-1c,10
+vol-06468cc0032558b6d,30,gp2,100,snap-00a4c8edad3682e2d,2019-04-16 20:52:33.205000+00:00,us-west-1c,30
+vol-0da14ed218539eab9,8,gp2,100,snap-08847ea60aca1bb48,2019-04-25 05:24:33.478000+00:00,us-west-1c,8
+vol-0778c0516dfe76e07,100,gp2,300,,2019-04-23 21:11:09.980000+00:00,us-west-1a,100
+vol-0f6b520752d4f11a9,100,gp2,300,,2019-04-23 21:11:25.695000+00:00,us-west-1a,100
+vol-04ab86f25deee4259,100,gp2,300,,2019-04-23 21:11:20.097000+00:00,us-west-1a,100
+vol-04ad12e1a6ecc6865,100,gp2,300,,2019-04-23 21:13:04.506000+00:00,us-west-1a,100
+vol-01345f3684bdb5540,100,gp2,300,,2019-04-23 21:12:58.142000+00:00,us-west-1a,100
+Total no of Volumes,9
+
+
+Key_Name,Key_Fingerprint
+guacamole,f8:2c:99:35:b8:f5:e6:87:3f:41:b6:6e:04:12:66:52:74:41:59:97
+rackspace,1e:59:5f:db:1f:75:68:e7:76:45:32:da:92:a1:e0:cc:53:59:b8:f3
+Total no of key pairs,2
+
+
+Group_Id,Group_Name,VPC_ID,Owner,Description
+sg-007f693858b584a75,launch-wizard-4,vpc-03ae48c2d655d4428,521592740610,launch-wizard-4 created 2019-04-16T13:52:09.900-07:00
+sg-01c91af313ffc2f1a,launch-wizard-1,vpc-03ae48c2d655d4428,521592740610,launch-wizard-1 created 2019-04-01T11:45:07.513-07:00
+sg-04b42386f112afa4c,ssh,vpc-03ae48c2d655d4428,521592740610,ssh
+sg-06a7541dcb8410095,guacamole,vpc-03ae48c2d655d4428,521592740610,guacamole_security_group
+sg-06f7b20f07575b8c3,default,vpc-03ae48c2d655d4428,521592740610,default VPC security group
+sg-07bd86e05e85964e4,windows,vpc-03ae48c2d655d4428,521592740610,windows
+sg-095c22a87b6154f6d,launch-wizard-2,vpc-03ae48c2d655d4428,521592740610,launch-wizard-2 created 2019-04-15T18:43:12.125-07:00
+sg-0a15d50cb7af32749,launch-wizard-3,vpc-f7211d90,521592740610,launch-wizard-3 created 2019-04-16T13:49:20.604-07:00
+sg-4364b83e,default,vpc-f7211d90,521592740610,default VPC security group
+Total no of Security groups,9
+
+
+SUMMARY
+EC2 INSTANCES,VOLUMES,KEY PAIRS,SECURITY GROUPS
+4,9,2,9

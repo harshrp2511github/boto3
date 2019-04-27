@@ -1,0 +1,43 @@
+2019-04-23 14:33:50,533 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeInstances operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:35:48,536 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeInstances operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:37:16,808 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeInstances operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:37:16,851 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeVolumes operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:37:16,891 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeVolumes operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:37:16,924 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeKeyPairs operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:37:16,957 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeSecurityGroups operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:39:08,082 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,083 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,484 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,485 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,486 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,486 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,710 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,711 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,712 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,713 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,784 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,785 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,786 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:08,787 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:09,027 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:09,028 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:09,029 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,460 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,461 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,595 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeInstances operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:39:24,596 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,596 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,597 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,618 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeVolumes operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:39:24,640 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeVolumes operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:39:24,640 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,641 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,641 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,660 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeKeyPairs operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:39:24,660 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,661 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,661 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,681 - OTALogger - CRITICAL - An error occurred (AuthFailure) when calling the DescribeSecurityGroups operation: AWS was not able to validate the provided access credentials
+2019-04-23 14:39:24,681 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 14:39:24,682 - OTALogger - CRITICAL - [Errno 13] Permission denied: './output/ec2-details.csv'
+2019-04-23 15:01:24,888 - OTALogger - CRITICAL - local variable 'j' referenced before assignment
